@@ -6,4 +6,4 @@ def test_tambah():
 
 def test_kurang():
     assert example.kurang(5, 3) == 2
-    df
+    sd
